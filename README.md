@@ -8,10 +8,10 @@
 
 I am a **Computer Science** student, currently in first year of my degree, expanding my knowledge in every way possible. Currently I have no experience but I'm pretty sure it's not going to stay the same way. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
 - 📚 I’m currently learning ...
-  - Competetive programming in higher scale using cpp
-  - Js to implement it in web penetration testing
+  - mastering dsa using cpp 
+  - exploring python in order to build my own ML models
 - 🚀 I’m eager to work on new projects.
-  - *Did not start yet, but here I am about to make my next big move.*
+  - *Did not start yet.*
 - ✔ Feel free to ask me anything! I’m motivated to help others and learn from others.
 - Outside tech, I enjoy socializing with friends, 📸 taking pictures, 🎵 listening to music, and I also love 🍃 appreciating nature .
 - 📫 Reach out to me at: <a href="hydralgorithm@gmail.com">hydralgorithm@gmail.com</a>
