@@ -154,6 +154,7 @@ I am a **Computer Science** student, currently in first year of my degree, expan
 <br>
 
 <!-- Visitor Counter -->
+<!--
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
@@ -163,3 +164,4 @@ I am a **Computer Science** student, currently in first year of my degree, expan
 <br>
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+-->
