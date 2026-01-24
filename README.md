@@ -11,9 +11,10 @@ I am a **Computer Science** student, currently in first year of my degree, expan
   - mastering dsa using cpp 
   - exploring python in order to build my own ML models
 - 🚀 I’m eager to work on new projects.
-  - *Did not start yet.*
+  - I wanna build a maze solver using different kinds of algorithms.
+  - B2B Saas agent via vibecoding (god have mercy on the ai slop 🙏)
 - ✔ Feel free to ask me anything! I’m motivated to help others and learn from others.
-- Outside tech, I enjoy socializing, 📸 taking pictures, 🎵 listening to music, and I also love 🍃 appreciating nature .
+- Outside tech, I enjoy socializing, 📸 taking pictures, 🎵 listening to music, and I also love 🍃 nature .
 - 📫 Reach out to me at: <a href="hydralgorithm@gmail.com">hydralgorithm@gmail.com</a>
 <br>
 
