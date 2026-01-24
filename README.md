@@ -4,7 +4,8 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFzMHRsYjBlODMwMjIyaDFpZTdkY3dxc2pzNzZiYmlsM3RxY2FxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378tNyxfMDywsDYY/giphy.gif"/>
+<!-- <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/> -->
 
 I am a **Computer Science** student, currently in first year of my degree, expanding my knowledge in every way possible. Currently I have no experience but I'm pretty sure it's not going to stay the same way. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
 - 📚 I’m currently learning ...
