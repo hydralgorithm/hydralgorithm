@@ -151,7 +151,7 @@ I am a **Computer Science** student, currently in first year of my degree, expan
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hydralgorithm&theme=nightowl&show_icons=true&count_private=true" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hydralgorithm&theme=shadow-purple&mode=weekly" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hydralgorithm&theme=aura&mode=weekly" alt="GitHub Streak" /></a>
  <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hydralgorithm&theme=nightowl&hide_border=false" alt="hydralgorithm streak" /> -->
 </td>
 <td width="50%" align="center">
