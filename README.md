@@ -21,8 +21,8 @@ I am a **Computer Science** student, currently in first year of my degree, expan
 
 <!-- Profile Trophies -->
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy-fork-two.vercel.app/?username=hydralgorithm&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    <a href="https://github.com/hydralgorithm">
+        <img src="https://gh-trophy.cdnsoft.net/?username=hydralgorithm&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>     
 
