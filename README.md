@@ -7,15 +7,15 @@
 <img align="right" width=200px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFzMHRsYjBlODMwMjIyaDFpZTdkY3dxc2pzNzZiYmlsM3RxY2FxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378tNyxfMDywsDYY/giphy.gif"/>
 <!-- <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/> -->
 
-I am a **Computer Science** student, currently in first year of my degree, expanding my knowledge in every way possible. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
+I'm a **Computer Science** student, currently in first year of my degree, expanding my knowledge in every way possible. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
 - 📚 I’m currently learning ...
-  - Exploring aws and architecture systems
-  - exploring python in order to build my own ML models
+  - Exploring aws and system architecture
+  - Exploring python in order to build my own ML models
 - 🚀 I’m eager to work on new projects.
   - I wanna build a maze solver using different kinds of algorithms.
-  - B2B Saas agent via vibecoding (god have mercy on the ai slop 🙏)
+  - B2B Saas agent via vibecoding (ai slop 🙏)
 - ✔ Feel free to ask me anything! I’m motivated to help others and learn from others.
-- Outside tech, I enjoy socializing, 📸 taking pictures, 🎵 listening to music, and I also love 🍃 nature .
+- Outside tech, I enjoy socializing, 📸 taking pictures, 🎵 listening to music.
 - 📫 Reach out to me at: <a href="hydralgorithm@gmail.com">hydralgorithm@gmail.com</a>
 <br>
 
