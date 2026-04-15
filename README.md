@@ -12,8 +12,8 @@
     <a href="https://www.linkedin.com/in/im-abdul-fattah" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />
     </a>
-    <a href="https://github.com/hydralgorithm" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />
+    <a href="https://abdulfattah.tech" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
 </div>
