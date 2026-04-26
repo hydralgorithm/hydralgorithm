@@ -24,7 +24,6 @@
 
 I'm a **Computer Science** student at **MIT Bengaluru** (2nd semester) who builds real things under hackathon pressure. My focus is cloud infrastructure, ML engineering, and full-stack development — I ship first, refine later.
 
-- 🥉 **3rd place** out of ~80+ teams @ MIT BLR TechSolstice Hackathon with **CloudSeer**
 - 🫁 Built **PneumoScan** — pneumonia detection with EfficientNetB3 + GradCAM + CURB-65 clinical scoring
 - ☁️ Interested in **AWS, anomaly detection, and MLOps pipelines**
 - 🔨 Currently building: **SplitSnap** (React Native fintech app)
