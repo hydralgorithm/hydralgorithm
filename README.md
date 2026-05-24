@@ -1,4 +1,4 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://raw.githubusercontent.com/hydralgorithm/hydralgorithm/main/assets/ezgif-45d415f2bd239099.gif" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=40&duration=3000&pause=1000&color=8a312b&center=true&vCenter=true&width=700&height=60&lines=Hey+there,+I'm+Fattah+😉;Cloud+%7C+ML+%7C+Full-Stack+Builder" alt="Typing Header" />
