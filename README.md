@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hey+there,+I'm+Fattah+😉;Cloud+%7C+ML+%7C+Full-Stack+Builder" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=40&duration=3000&pause=1000&color=8a312b&center=true&vCenter=true&width=700&height=60&lines=Hey+there,+I'm+Fattah+😉;Cloud+%7C+ML+%7C+Full-Stack+Builder" alt="Typing Header" />
 
   <p><em>Building at the intersection of cloud infrastructure, ML, and full-stack development.</em></p>
 
