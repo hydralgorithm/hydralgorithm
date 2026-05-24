@@ -18,7 +18,7 @@
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/hydralgorithm/hydralgorithm/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c-ezgif.com-instagif.gif">
 
 ## 👨‍💻 About Me
 
@@ -30,7 +30,7 @@ I'm a **Computer Science** student at **MIT Bengaluru** (2nd semester) who build
 - 💬 Ask me about: **Python, ML model deployment, cloud cost optimization**
 - 📫 Reach me at: hydralgorithm@gmail.com
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/hydralgorithm/hydralgorithm/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c-ezgif.com-instagif.gif">
 
 ## 🚀 Featured Projects
 
@@ -41,7 +41,7 @@ I'm a **Computer Science** student at **MIT Bengaluru** (2nd semester) who build
 | 🔒 [**SecureFlow**](https://github.com/hydralgorithm/SecureFlow) | Real-time UPI fraud prevention — 6 behavioral rules, 40+ scam keyword detections. | TypeScript |
 | ⚙️ [**modelServe\_Lite**](https://github.com/hydralgorithm/modelServe_Lite) | Lightweight framework for deploying ML models as production REST APIs. | Python, FastAPI |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/hydralgorithm/hydralgorithm/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c-ezgif.com-instagif.gif">
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +51,7 @@ I'm a **Computer Science** student at **MIT Bengaluru** (2nd semester) who build
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/hydralgorithm/hydralgorithm/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c-ezgif.com-instagif.gif">
 
 ## 📊 GitHub Stats
 
@@ -70,10 +70,10 @@ I'm a **Computer Science** student at **MIT Bengaluru** (2nd semester) who build
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/hydralgorithm/hydralgorithm/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c-ezgif.com-instagif.gif">
 
 <p align="center">
   <em>"Ship it. Then make it better."</em>
 </p>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://raw.githubusercontent.com/hydralgorithm/hydralgorithm/main/assets/ezgif-45d415f2bd239099.gif" width="100%">
