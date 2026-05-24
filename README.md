@@ -47,7 +47,7 @@ I'm a **Computer Science** student at **MIT Bengaluru** (2nd semester) who build
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,js,react,git,figma,github&theme=dark&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=gcp,python,java,c,cpp,docker,git,figma&theme=dark&perline=8" alt="Tech Stack" />
   </a>
 </div>
 
