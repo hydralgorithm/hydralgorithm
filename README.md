@@ -61,9 +61,6 @@ I'm a **Computer Science** student at **MIT Bengaluru** (2nd semester) who build
 <td width="50%" align="center">
   <img src="https://streak-stats.demolab.com?user=hydralgorithm&theme=blood-dark&mode=weekly" alt="GitHub Streak" />
 </td>
-<td width="50%" align="center">
-  <img src="https://media1.tenor.com/m/WmU_8UAyg_8AAAAC/night.gif" width="467" height="195" />
-</td>
 </tr>
 </table>
 </div>
