@@ -59,12 +59,10 @@ I'm a **Computer Science** student at **MIT Bengaluru** (2nd semester) who build
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com?user=hydralgorithm&theme=aura&mode=weekly" alt="GitHub Streak" />
-  <img src="https://media1.tenor.com/m/WmU_8UAyg_8AAAAC/night.gif" width="467" height="195" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hydralgorithm&theme=nightowl&show_icons=true&count_private=true" /> -->
+  <img src="https://streak-stats.demolab.com?user=hydralgorithm&theme=blood-dark&mode=weekly" alt="GitHub Streak" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hydralgorithm&theme=nightowl&hide_border=false&langs_count=8"/>
+  <img src="https://media1.tenor.com/m/WmU_8UAyg_8AAAAC/night.gif" width="467" height="195" />
 </td>
 </tr>
 </table>
